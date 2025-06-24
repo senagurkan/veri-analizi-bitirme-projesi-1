@@ -54,4 +54,4 @@ Projenin amacı, havayolu yolcularının memnuniyet düzeylerini etkileyen fakt�
 ├── notebooks 
    ├── airline_analysis.ipynb     # Ana analiz dosyası
 ├── README.md                  # Bu açıklama dosyası
-└── data/                   # (Opsiyonel) Veri setinin bulunduğu klasör
+└── data/                   #  Veri setinin bulunduğu klasör
